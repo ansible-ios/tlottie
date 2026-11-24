@@ -1,3 +1,12 @@
+# as-tlottie
+
+Ansible Messenger — работа с векторной анимацией Lottie.
+
+> [!NOTE]
+> **Происхождение кода.** Форк [dkaraush/tlottie](https://github.com/dkaraush/tlottie), который сопровождает проект Ansible Messenger. Сведения об авторах и лицензиях приведены в исходной документации.
+
+## Документация исходного проекта
+
 # tlottie
 
 Library for drawing [lottie animations](https://en.wikipedia.org/wiki/Lottie_(file_format)), written in Rust.
